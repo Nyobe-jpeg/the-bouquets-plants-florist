@@ -1,0 +1,200 @@
+body {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+#navbar{background-color: darkgrey;
+font-size: 40px;
+height: 180px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+header h1 {
+    background: green;
+    text-align: center;
+    width: 100%;
+    margin: 1rem;
+    align-self: auto;
+    ;
+    font: italic;
+}
+
+.flowering {
+    width: 50%;
+}
+
+#intro {
+    text-align: center;
+    font-size: large;
+
+}
+.contactus h1{font: bold;
+color: black;
+text-align: center;
+margin: auto;
+}
+
+.floristcontainer {
+    background-color: darkolivegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 2px;
+}
+
+.floristcontainer {
+    width: 100%;
+}
+
+#florist {
+    width: 50%;
+    justify-content:center;
+    display: flex;
+    align-items: center;
+}
+
+#bouquets h1 {
+    text-align: left;
+    font: italic;
+}
+
+#floristimg {
+    width: 80%;
+    height: 80%;
+    display: flex;  
+}
+
+.floristimg {
+    width: 80%;
+}
+
+#floristimg {
+    width: 80%;
+    height: 80%;
+    display: flex;
+}
+
+#floristimg {
+    width: 80%;
+    height: 80%;
+    display: flex;
+}
+
+.plantscontainer {
+    background-color:darkolivegreen;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.plantscontainer {
+    width: 80%;
+}
+
+#plants {
+    width: 80%;
+
+}
+
+.plantsimg {
+    width: 100%;
+}
+
+#plants h1 {
+    text-align: center;
+    font: italic;
+}
+
+#plants h3 {
+    text-align: center;
+    font: bold
+}
+
+#plants img {
+    width: 80%;
+    height: 80%;
+    display: flex;
+}
+
+
+#plants img {
+    width: 80%;
+    height: 80%;
+    display: flex;
+}
+
+#plants img {
+    width: 80%;
+    height: 80%;
+    display: flex;
+}
+
+.linkcontainer {
+    background-color: darkgrey;
+    margin: auto;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.linkcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.linkcontainer {
+    width: 80%;
+    height: 80%;
+}
+
+.linkcontainer a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.aboutuscontainer {
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    font: 100;
+}
+
+.aboutuscontainer {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    background-color: lightgrey;
+}
+
+table {
+    width: 100%;
+    font: italic;
+}
+
+th td {
+    border:solid;
+    border: 20px;
+    padding: 10px;
+}
+
+th {
+    background-color: green;
+}
